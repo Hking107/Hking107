@@ -3,27 +3,24 @@
 
 *Un étudiant passionnée en exploration dans le monde fascinant de l'informatique.*
 
----
-
 # **🌟 À propos de moi**
 
-### **🎓 Futur talent de l'informatique :** En apprentissage des notions théoriques et pratiques
+### **🎓 Futur talent de l'informatique :**
+ En apprentissage des notions théoriques et pratiques
 
-### **✨ Collaboratrice :** Création de groupes d’étude pour apprendre ensemble.
+### **✨ Collaboratrice :** 
+Création de groupes d’étude pour apprendre ensemble.
 
-### **🧠 Apprenante éternelle :** Toujours prête à grandir et à aider les autres à réussir.
-
----
+### **🧠 Apprenante éternelle :** 
+Toujours prête à grandir et à aider les autres à réussir.
 
 # **🚀 Mes objectifs**
 
-### *🌐 Maîtriser les bases de l’informatique et ses concepts fondamentaux.*
+*🌐 Maîtriser les bases de l’informatique et ses concepts fondamentaux.*
 
 ### *📚 Soutenir mes camarades en créant des environnements d’apprentissage inclusifs.*
 
 ### *🌟 Partager mes connaissances et contribuer à des projets open source.*
-
----
 
 # **🛠️ Mes compétences**
 
@@ -33,27 +30,29 @@
 
 ### **🗣️ Communication :** Simplifier les concepts complexes pour mieux les enseigner.
 
----
-
 # **📖 Projets & Activités**
 
 Voici quelques initiatives sur lesquelles je travaille :
 
-### **💡 Groupes d'étude :** Organisation de sessions où les étudiants s'entraident.
+### **💡 Groupes d'étude :** 
+Organisation de sessions où les étudiants s'entraident.
 
-### **✍️ Journal d'apprentissage :** Documentation de mon parcours pour inspirer les autres.
+### **✍️ Journal d'apprentissage :** 
+Documentation de mon parcours pour inspirer les autres.
 
-### **🌟 À venir :** Contributions open source et projets innovants !
+### **🌟 À venir :** 
+Contributions open source et projets innovants !
 
 ---
 
-💬 Entrons en contact
+# **💬 Entrons en contact**
 
 📩 N’hésite pas à me contacter pour collaborer, apprendre ensemble ou simplement discuter !
 
-### **🌐 GitHub :** Tu es déjà là !
-### **📫 Telephone:** +237 6 20 07 49 83
+### **🌐 GitHub :** 
+Tu es déjà là !
+### **📫 Telephone:** 
++237 6 20 07 49 83
 
----
 
-*🚀 En informatique, le voyage est aussi passionnant que la destination !*
+#### *🚀 En informatique, le voyage est aussi passionnant que la destination !*
