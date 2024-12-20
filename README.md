@@ -1,7 +1,7 @@
 
 # **👋 Bonjour, je suis Hking !**
 
-Un étudiant passionnée en exploration dans le monde fascinant de l'informatique.
+Un étudiant passionné en exploration dans le monde fascinant de l'informatique.
 
 # **🌟 À propos de moi**
 
