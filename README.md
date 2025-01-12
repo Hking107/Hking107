@@ -9,16 +9,14 @@ Un étudiant passionné en exploration dans le monde fascinant de l'informatique
  En apprentissage des notions théoriques et pratiques
 
 ### **✨ Collaborateur :** 
-Création de groupes d’étude pour apprendre ensemble.
+Travailleur sur et Innovateur.
 
 ### **🧠 Apprenant éternelle :** 
-Toujours prête à grandir et à aider les autres à réussir.
+Toujours prête à grandir et a réussir.
 
 # **🚀 Mes objectifs**
 
 - 🌐 Maîtriser les bases de l’informatique et ses concepts fondamentaux.
-
-- 📚 Soutenir mes camarades en créant des environnements d’apprentissage inclusifs.
 
 - 🌟 Partager mes connaissances et contribuer à des projets open source.
 
@@ -31,20 +29,18 @@ Algorithmes, structures de données, Complexité, Optimisations et Une base soli
 Élaborer des plans d’étude et trouver des solutions uniques.
 
 ### **🗣️ Communication :** 
-Simplifier les concepts complexes pour mieux les enseigner.
+Simplifier les concepts complexes pour mieux les expimer.
 
 # **📖 Projets & Activités**
 
 Voici quelques initiatives sur lesquelles je travaille :
 
-### **💡 Groupes d'étude :** 
-Organisation de sessions où les étudiants s'entraident.
-
 ### **✍️ Journal d'apprentissage :** 
 Documentation de mon parcours pour inspirer les autres.
 
 ### **🌟 À venir :** 
-Contributions open source et projets innovants !
+ - Contributions open source et projets innovants !
+ - Deploiement de la LinAC( L'un de mes projets)
 
 # **💬 Entrons en contact**
 
