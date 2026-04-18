@@ -1,56 +1,88 @@
+# Ulrich ETONDE
 
-# **👋 Bonjour, je suis Hking !**
+Data Science Student | AI & Software Engineering Enthusiast | Building Intelligent Systems
 
-Un étudiant passionné en exploration dans le monde fascinant de l'informatique.
+---
 
-# **🌟 À propos de moi**
+## About Me
 
-### **🎓 Futur talent de l'informatique :**
- En apprentissage des notions théoriques et pratiques
+I'm Ulrich ETONDE, a Computer Science student specializing in Data Science.  
+I'm passionate about building intelligent systems, solving complex problems, and designing scalable software.
 
-### **✨ Collaborateur :** 
-Travailleur sur et Innovateur.
+My interests include:
 
-### **🧠 Apprenant éternelle :** 
-Toujours prête à grandir et a réussir.
+- Machine Learning
+- Data Science
+- Algorithm Design
+- Software Engineering
+- Artificial Intelligence
 
-# **🚀 Mes objectifs**
+I enjoy working on projects that combine mathematics, programming, and real-world impact.
 
-- 🌐 Maîtriser les bases de l’informatique et ses concepts fondamentaux.
+---
 
-- 🌟 Partager mes connaissances et contribuer à des projets open source.
+## Current Focus
 
-# **🛠️ Mes compétences**
+- Machine Learning Projects
+- Data Analysis & Prediction Models
+- Algorithm Optimization
+- System Design
 
-### **💻 Bases de l’informatique :** 
-Algorithmes, structures de données, Complexité, Optimisations et Une base solide en Mathematiques.
+*"Every project I build is a step toward becoming an AI Engineer capable of solving real-world problems."*
 
-### **🎨 Créativité :** 
-Élaborer des plans d’étude et trouver des solutions uniques.
+---
 
-### **🗣️ Communication :** 
-Simplifier les concepts complexes pour mieux les expimer.
+## Technical Skills
 
-# **📖 Projets & Activités**
+Programming Languages:
+- Python
+- C
+- C++
+- JavaScript
+- TypeScript
 
-Voici quelques initiatives sur lesquelles je travaille :
+Data Science:
+- Pandas
+- Numpy
+- Scikit-learn
+- Jupyter Notebook
 
-### **✍️ Journal d'apprentissage :** 
-Documentation de mon parcours pour inspirer les autres.
+Software Engineering:
+- Git
+- Linux
+- REST APIs
+- System Design
 
-### **🌟 À venir :** 
- - Contributions open source et projets innovants !
- - Deploiement de la LinAC( L'un de mes projets)
+---
 
-# **💬 Entrons en contact**
+## Currently Learning
 
-📩 N’hésite pas à me contacter pour collaborer, apprendre ensemble ou simplement discuter !
+- Advanced Machine Learning
+- Deep Learning
+- Data Engineering
+- Distributed Systems
 
-### **🌐 GitHub :** 
-Tu es déjà là !
-### **📫 Telephone:** 
-+237 6 20 07 49 83
+---
 
-🚀 En informatique, le voyage est aussi passionnant que la destination !
+## Goals
 
-## #HKINGs(Hking107)
+- Build production-level AI systems
+- Contribute to open-source projects
+- Become an AI Engineer / Data Scientist
+- Work on impactful technological solutions
+
+---
+
+## GitHub Stats
+
+![Ulrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hking107&show_icons=true&theme=default)
+
+---
+
+## Let's Connect
+
+- GitHub: https://github.com/Hking107
+
+---
+
+*"Consistency builds credibility. Every commit is progress."*
